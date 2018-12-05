@@ -32,15 +32,10 @@ p {
 
 img {
   display: inline-block;
-  width: 49%;
-  margin: 0;
+  width: 100%;
 }
 
 h2 {
   margin-top: 0;
   margin-bottom: 0;
-}
-
-p {
-  margin
 }
